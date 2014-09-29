@@ -8,6 +8,7 @@ int main()
     3. Print
     4. Print Print
     5. Print Print Print
+    6. 6
     return 0;
 }
 
