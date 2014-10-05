@@ -10,6 +10,7 @@ int main()
     5. Print Print Print
     6. 6
     7.7
+    8. 8
     return 0;
 }
 
