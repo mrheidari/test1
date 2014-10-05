@@ -12,6 +12,7 @@ int main()
     7.7  test1 accepts this
     8. 8 I accept this
     9: 9 test1 accepts but with a subtle change
+    10: 10 test2
     return 0;
 }
 
