@@ -11,6 +11,7 @@ int main()
     6. 6
     7.7
     8. 8
+    9: test2 9
     return 0;
 }
 
