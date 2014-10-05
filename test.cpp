@@ -9,6 +9,7 @@ int main()
     4. Print Print
     5. Print Print Print
     6. 6
+    9: 9
     return 0;
 }
 
