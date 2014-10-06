@@ -20,6 +20,7 @@ int main()
     15: test1
     16: test1
     17: test1
+    18: test12
 return 0
 }
 
