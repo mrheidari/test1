@@ -15,6 +15,7 @@ int main()
     10: 10 test2
     11: 11 test1 and test2
     12: test2log 
+    13: test1
 return 0
 }
 
