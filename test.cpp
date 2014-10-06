@@ -13,9 +13,9 @@ int main()
     8. 8 I accept this
     9: 9 test1 accepts but with a subtle change
     10: 10 test2
-    11: 11 test2
-    12: test2
-    return 0;
+    11: 11 test1 and test2
+    12: test2log 
+return 0
 }
 
 
